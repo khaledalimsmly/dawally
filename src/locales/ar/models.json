@@ -1,0 +1,64 @@
+{
+  "title": "نماذج الذكاء الاصطناعي لدينا",
+  "subtitle": "خوارزميات تعلم آلي متقدمة تدعم توقعات الأسهم",
+  "hero": {
+    "title": "نماذج الذكاء الاصطناعي لدينا",
+    "subtitle": "خوارزميات تعلم آلي متقدمة تدعم توقعات الأسهم"
+  },
+  "bestModel": {
+    "title": "أفضل نموذج اليوم",
+    "badge": "الأفضل أداءً",
+    "description": "أعلى دقة عبر جميع الأطر الزمنية وظروف السوق",
+    "modelName": "اسم النموذج",
+    "accuracyRate": "معدل الدقة",
+    "confidenceRange": "نطاق الثقة",
+    "riskLevel": "مستوى المخاطر",
+    "keyStrength": "نقطة القوة الرئيسية",
+    "useButton": "استخدم هذا النموذج"
+  },
+  "allModels": {
+    "title": "جميع النماذج المتاحة"
+  },
+  "card": {
+    "accuracy": "الدقة",
+    "confidence": "الثقة",
+    "risk": "المخاطر",
+    "accuracyTrend": "اتجاه الدقة",
+    "strengths": "نقاط القوة",
+    "useCases": "حالات الاستخدام",
+    "notes": "ملاحظات",
+    "showLess": "عرض أقل",
+    "learnMore": "تعرف على المزيد"
+  },
+  "comparison": {
+    "performanceTitle": "مقارنة الأداء",
+    "detailedTitle": "مقارنة تفصيلية"
+  },
+  "chart": {
+    "metrics": {
+      "accuracy": "الدقة",
+      "speed": "السرعة",
+      "confidence": "الثقة",
+      "riskAdjReturn": "العائد المعدل للمخاطر"
+    }
+  },
+  "cta": {
+    "title": "هل أنت مستعد للبدء؟",
+    "description": "احصل على وصول إلى جميع نماذج الذكاء الاصطناعي لدينا وابدأ في اتخاذ قرارات استثمارية أفضل اليوم.",
+    "button": "ابدأ الآن"
+  },
+  "features": {
+    "title": "ميزات النموذج",
+    "accuracy": "الدقة",
+    "speed": "السرعة",
+    "confidence": "الثقة",
+    "riskAdjustedReturn": "العائد المعدل للمخاطر"
+  },
+  "details": {
+    "description": "الوصف",
+    "strengths": "نقاط القوة",
+    "weaknesses": "نقاط الضعف",
+    "bestFor": "الأفضل لـ",
+    "accuracy": "معدل الدقة"
+  }
+}

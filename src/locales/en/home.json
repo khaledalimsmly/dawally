@@ -1,0 +1,38 @@
+{
+  "hero": {
+    "title": "DAWALLY",
+    "subtitle": "AI Predictions for the",
+    "subtitleHighlight": "Saudi Stock Market",
+    "description": "Make informed trading decisions with advanced AI-powered predictions, real-time market analysis, and confidence-scored insights for Tadawul stocks.",
+    "viewPredictions": "View Predictions",
+    "createAccount": "Create Account",
+    "securePlatform": "Secure Platform",
+    "aiPowered": "AI-Powered",
+    "realTimeData": "Real-time Data"
+  },
+  "features": {
+    "title": "Three Core Features",
+    "subtitle": "Everything you need to make smarter trading decisions in the Saudi stock market",
+    "prediction": {
+      "title": "Future Price Predictions",
+      "description": "Get AI-powered price forecasts for 1-day, 7-day, and 30-day periods. Our advanced algorithms analyze historical patterns and market trends.",
+      "badge": "1D, 7D, 30D Forecasts"
+    },
+    "confidence": {
+      "title": "Confidence + Risk Scores",
+      "description": "Every prediction includes a confidence score and risk level assessment. Know exactly how reliable each forecast is before making decisions.",
+      "badge": "Data-Driven Insights"
+    },
+    "scanner": {
+      "title": "Real-time AI Market Scanner",
+      "description": "Discover unusual volume spikes, high volatility stocks, and sentiment shifts. Never miss an opportunity in the market.",
+      "badge": "Live Market Analysis"
+    }
+  },
+  "cta": {
+    "title": "Ready to Start Trading Smarter?",
+    "description": "Join thousands of investors using AI to make better decisions in the Saudi stock market",
+    "button": "Get Started Free",
+    "disclaimer": "No credit card required • Start analyzing stocks immediately"
+  }
+}

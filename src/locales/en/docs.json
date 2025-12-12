@@ -1,0 +1,114 @@
+{
+  "title": "Documentation",
+  "subtitle": "Learn how DAWALLY delivers AI-powered stock market predictions",
+  "whatIsDawally": {
+    "title": "What is DAWALLY?",
+    "paragraph1": "DAWALLY is an advanced AI-powered prediction platform specifically designed for the Saudi stock market (Tadawul). We provide institutional-grade forecasting technology to help investors, traders, and organizations make data-driven decisions.",
+    "paragraph2": "Our platform analyzes thousands of data points in real-time, combining multiple AI models to generate accurate predictions with confidence scores. Whether you're an individual investor or a financial institution, DAWALLY delivers actionable insights tailored to your needs."
+  },
+  "howPredictions": {
+    "title": "How Predictions Are Generated",
+    "intro": "DAWALLY's prediction engine combines cutting-edge machine learning algorithms with traditional financial analysis to deliver accurate forecasts. Our system operates through a sophisticated multi-stage pipeline:",
+    "steps": {
+      "step1": {
+        "title": "Data Collection & Processing",
+        "description": "Real-time market data, historical prices, trading volumes, news sentiment, and macroeconomic indicators are continuously ingested and normalized."
+      },
+      "step2": {
+        "title": "Feature Engineering",
+        "description": "Advanced algorithms extract meaningful patterns and relationships from raw data, creating hundreds of predictive features including technical indicators, sentiment scores, and market correlations."
+      },
+      "step3": {
+        "title": "Multi-Model Prediction",
+        "description": "Multiple specialized AI models analyze the data simultaneously, each optimized for different market conditions and time horizons. Models include LSTM networks, gradient boosting, and ensemble methods."
+      },
+      "step4": {
+        "title": "Consensus & Confidence Scoring",
+        "description": "Predictions from all models are aggregated using weighted voting, with confidence scores calculated based on model agreement, historical accuracy, and market volatility."
+      }
+    },
+    "result": {
+      "label": "Result:",
+      "text": "Each prediction includes a target price, expected return, confidence level, and supporting signals. Our system updates predictions continuously as new market data becomes available, ensuring you always have the most current insights."
+    }
+  },
+  "multiModel": {
+    "title": "Multi-Model AI Architecture",
+    "intro": "Unlike single-model systems that can be brittle and overfit to specific conditions, DAWALLY employs a diversified ensemble of specialized AI models. This multi-model approach significantly improves accuracy and robustness across varying market environments.",
+    "diversity": {
+      "title": "Model Diversity",
+      "subtitle": "Each model type brings unique strengths:",
+      "deepLearning": "Deep Learning: Captures complex non-linear patterns",
+      "gradientBoosting": "Gradient Boosting: Handles structured data efficiently",
+      "timeSeries": "Time Series: Specialized for temporal dependencies"
+    },
+    "adaptive": {
+      "title": "Adaptive Weighting",
+      "subtitle": "Model contributions are dynamically adjusted based on:",
+      "performance": "Recent performance and accuracy metrics",
+      "marketRegime": "Current market regime and volatility levels",
+      "confidence": "Prediction confidence and model agreement"
+    },
+    "conclusion": "This ensemble approach reduces the risk of any single model's weaknesses dominating the predictions, while amplifying the collective intelligence of the entire system. The result is more stable, reliable forecasts that perform well across bull markets, bear markets, and sideways trading periods."
+  },
+  "useCases": {
+    "title": "Use Cases",
+    "b2c": {
+      "title": "B2C: Individual Investors & Traders",
+      "description": "Retail investors gain access to institutional-grade AI predictions through an intuitive web interface. Perfect for day traders, swing traders, and long-term investors looking to enhance their decision-making with data-driven insights.",
+      "features": {
+        "predictions": "Real-time predictions for 100+ Tadawul stocks",
+        "confidence": "Confidence scores and risk assessments",
+        "scanner": "Market scanner for discovering opportunities",
+        "mobile": "Mobile-friendly access anytime, anywhere"
+      }
+    },
+    "b2b": {
+      "title": "B2B: Financial Institutions & Advisory Firms",
+      "description": "Investment banks, wealth management firms, and financial advisors can integrate DAWALLY's prediction engine into their existing workflows. Enhance client services with AI-powered insights while maintaining your brand identity.",
+      "features": {
+        "api": "API access for seamless integration",
+        "bulk": "Bulk predictions and portfolio analysis",
+        "custom": "Custom model training on proprietary data",
+        "sla": "Enterprise SLAs and dedicated support"
+      }
+    },
+    "b2g": {
+      "title": "B2G: Government Agencies & Regulators",
+      "description": "Regulatory bodies and government economic planning departments can leverage DAWALLY's analytics for market surveillance, policy impact analysis, and economic forecasting.",
+      "features": {
+        "risk": "Market-wide risk assessment and monitoring",
+        "anomaly": "Anomaly detection for regulatory oversight",
+        "predictive": "Predictive analytics for policy planning",
+        "deployment": "On-premise deployment options available"
+      }
+    },
+    "b2b2c": {
+      "title": "B2B2C: White-Label Solutions for Brokerages",
+      "description": "Brokerages and trading platforms can offer DAWALLY's prediction technology directly to their end customers under their own brand. Turn AI insights into a competitive differentiator and revenue stream.",
+      "features": {
+        "branding": "Fully customizable UI with your branding",
+        "widgets": "Embeddable widgets for existing platforms",
+        "revenue": "Revenue sharing and flexible pricing models",
+        "support": "Technical integration and ongoing support"
+      }
+    }
+  },
+  "api": {
+    "title": "API Documentation",
+    "comingSoon": "API Access Coming Soon",
+    "description": "Our RESTful API will provide programmatic access to all prediction data, real-time market feeds, and model analytics. Perfect for integrating DAWALLY into your applications and workflows.",
+    "interested": "Interested in API access?",
+    "contact": "Contact us",
+    "plannedFeatures": {
+      "title": "Planned API Features",
+      "rest": "RESTful endpoints with JSON responses",
+      "websocket": "WebSocket feeds for real-time updates",
+      "oauth": "OAuth 2.0 authentication",
+      "rateLimit": "Rate limiting and usage analytics",
+      "sdks": "SDKs for Python, JavaScript, and more",
+      "docs": "Comprehensive documentation and examples"
+    }
+  },
+  "cta": "Get Started with DAWALLY"
+}

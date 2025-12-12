@@ -1,0 +1,60 @@
+{
+  "title": "Admin Dashboard",
+  "nav": {
+    "overview": "Overview",
+    "stocks": "Stocks",
+    "predictions": "Predictions",
+    "scanner": "Scanner",
+    "users": "Users",
+    "models": "Models",
+    "upload": "Upload",
+    "edit": "Edit"
+  },
+  "overview": {
+    "title": "Overview",
+    "totalStocks": "Total Stocks",
+    "totalPredictions": "Total Predictions",
+    "activeUsers": "Active Users",
+    "scannerSignals": "Scanner Signals"
+  },
+  "stocks": {
+    "title": "Stock Management",
+    "search": "Search stocks...",
+    "sortBy": "Sort by:",
+    "noStocks": "No stocks found"
+  },
+  "predictions": {
+    "title": "Predictions Management",
+    "search": "Search predictions...",
+    "noPredictions": "No predictions found"
+  },
+  "scanner": {
+    "title": "Scanner Data",
+    "search": "Search scanner data...",
+    "noSignals": "No signals found"
+  },
+  "users": {
+    "title": "User Management",
+    "search": "Search users...",
+    "role": "Role",
+    "lastSignIn": "Last Sign In",
+    "noUsers": "No users found"
+  },
+  "models": {
+    "title": "AI Models Management",
+    "createNew": "Create New Model",
+    "edit": "Edit Model",
+    "status": "Status",
+    "active": "Active",
+    "inactive": "Inactive",
+    "toggleStatus": "Toggle Status",
+    "noModels": "No models found"
+  },
+  "actions": {
+    "edit": "Edit",
+    "delete": "Delete",
+    "view": "View",
+    "save": "Save",
+    "cancel": "Cancel"
+  }
+}

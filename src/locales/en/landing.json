@@ -1,0 +1,110 @@
+{
+  "hero": {
+    "title": "AI-Powered Stock Predictions",
+    "subtitle": "for the Saudi Market",
+    "description": "Multi-model AI forecasting for confident investment decisions",
+    "tryDemo": "Try the Demo",
+    "createAccount": "Create Account",
+    "securePlatform": "Secure Platform",
+    "aiPowered": "AI-Powered",
+    "realTimeData": "Real-time Data"
+  },
+  "stats": {
+    "avgAccuracy": "Avg. Prediction Accuracy",
+    "aiModels": "AI Models",
+    "tadawulStocks": "Tadawul Stocks",
+    "realTimeAnalysis": "Real-Time Analysis"
+  },
+  "features": {
+    "title": "Powerful Features for Smarter Trading",
+    "subtitle": "Everything you need to make data-driven decisions in the Saudi stock market",
+    "multiModel": {
+      "title": "Multi-Model AI Predictions",
+      "description": "Compare forecasts from 4 advanced AI models (Baseline, Ensemble AI, Transformer Pro, Risk-Adjusted) across 1-day, 7-day, and 30-day timeframes. Get consensus predictions backed by multiple algorithms.",
+      "badge": "4 AI Models"
+    },
+    "confidence": {
+      "title": "Confidence & Risk Scoring",
+      "description": "Every prediction includes accuracy scores, confidence percentages, and risk level assessments. Make decisions backed by transparent AI reasoning. Know exactly how reliable each forecast is before investing.",
+      "badge": "Risk Analysis"
+    },
+    "scanner": {
+      "title": "Real-Time Market Scanner",
+      "description": "Discover volume spikes, high volatility opportunities, and unusual price movements across all Tadawul stocks instantly. Never miss a trading opportunity with our AI-powered market surveillance system.",
+      "badge": "Live Scanning"
+    },
+    "learnMore": "Learn more"
+  },
+  "why": {
+    "title": "Why DAWALLY?",
+    "subtitle": "Advanced AI. Unmatched Accuracy. Saudi Market Expertise.",
+    "multiModelEngine": {
+      "title": "Multi-Model AI Engine",
+      "description": "We don't rely on a single algorithm. Our ensemble approach combines LSTM, XGBoost, and Random Forest models for superior accuracy."
+    },
+    "tadawulSpecific": {
+      "title": "Tadawul-Specific Training",
+      "description": "Models trained exclusively on Saudi market data, accounting for regional trading patterns and market hours."
+    },
+    "transparentScoring": {
+      "title": "Transparent Scoring",
+      "description": "Unlike black-box systems, we provide confidence scores, risk assessments, and reasoning for every prediction."
+    },
+    "continuousLearning": {
+      "title": "Continuous Learning",
+      "description": "Our models retrain daily, adapting to the latest market conditions and improving accuracy over time."
+    },
+    "chart": {
+      "title": "Model Accuracy Over Time",
+      "aiModels": "AI Models",
+      "retraining": "Retraining",
+      "daily": "Daily",
+      "tadawulFocus": "Tadawul Focus"
+    }
+  },
+  "cta": {
+    "title": "Get Started Today",
+    "subtitle": "Whether you're an individual trader or an institution, we have the right solution for you",
+    "explore": {
+      "title": "Explore AI Predictions",
+      "description": "Test our multi-model prediction system with real Tadawul stocks. See live forecasts, confidence scores, and compare AI models instantly.",
+      "liveData": "Live Data",
+      "freeAccess": "Free Access",
+      "button": "Try the Demo"
+    },
+    "enterprise": {
+      "title": "Enterprise Solutions",
+      "description": "API access, custom models, and white-label solutions for institutional investors. Scale our AI predictions across your organization.",
+      "customIntegration": "Custom Integration",
+      "dedicatedSupport": "Dedicated Support",
+      "button": "Request Access"
+    }
+  },
+  "testimonials": {
+    "title": "Trusted by Saudi Investors",
+    "subtitle": "See what traders are saying about DAWALLY",
+    "quotes": [
+      {
+        "text": "DAWALLY's predictions helped me identify a 15% gain on SABIC before the market moved. The confidence scores give me real clarity.",
+        "name": "Ahmed Al-Mansour",
+        "role": "Retail Investor",
+        "location": "Riyadh",
+        "initials": "AM"
+      },
+      {
+        "text": "The AI scanner is a game-changer. I discovered three high-volatility opportunities in one week that I would've missed otherwise.",
+        "name": "Fatima Al-Qahtani",
+        "role": "Day Trader",
+        "location": "Jeddah",
+        "initials": "FQ"
+      },
+      {
+        "text": "As a long-term investor, the 30-day forecasts help me plan entry and exit points with confidence. Highly recommended.",
+        "name": "Mohammed Al-Rashid",
+        "role": "Portfolio Manager",
+        "location": "Dammam",
+        "initials": "MR"
+      }
+    ]
+  }
+}

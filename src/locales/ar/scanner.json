@@ -1,0 +1,59 @@
+{
+  "title": "ماسح السوق",
+  "subtitle": "الكشف في الوقت الفعلي عن النشاط السوقي غير المعتاد وفرص التداول",
+  "scanning": "جاري المسح...",
+  "rescanMarket": "إعادة مسح السوق",
+  "scanningMessage": "جاري مسح السوق للإشارات...",
+  "tabs": {
+    "volume": "حجم غير معتاد",
+    "volatility": "تقلبات عالية",
+    "sentiment": "ارتفاعات المعنويات"
+  },
+  "filters": {
+    "label": "الفلاتر:",
+    "sector": "القطاع",
+    "allSectors": "جميع القطاعات",
+    "riskLevel": "مستوى المخاطر",
+    "allRiskLevels": "جميع مستويات المخاطر",
+    "high": "عالي",
+    "medium": "متوسط",
+    "low": "منخفض",
+    "results": "النتائج:",
+    "reset": "إعادة تعيين الفلاتر"
+  },
+  "summary": {
+    "title": "ملخص الماسح",
+    "totalFlagged": "إجمالي الأسهم المميزة",
+    "volumeAlerts": "تنبيهات الحجم",
+    "volatilityAlerts": "تنبيهات التقلب",
+    "sentimentAlerts": "تنبيهات المعنويات",
+    "marketHeat": "حرارة السوق",
+    "lastUpdated": "آخر تحديث",
+    "rescan": "إعادة مسح السوق"
+  },
+  "table": {
+    "symbol": "الرمز",
+    "stockName": "اسم السهم",
+    "price": "السعر",
+    "volumeChange": "تغيير الحجم",
+    "volumeRatio": "نسبة الحجم",
+    "sentiment": "المعنويات",
+    "priceChange": "تغيير السعر",
+    "volatilityScore": "درجة التقلب",
+    "direction": "الاتجاه",
+    "sentimentChange": "تغيير المعنويات",
+    "action": "إجراء",
+    "view": "عرض",
+    "noSignals": "لم يتم اكتشاف إشارات في هذه الفئة"
+  },
+  "signalTypes": {
+    "volumeSpike": "ارتفاع في الحجم",
+    "highVolatility": "تقلب عالي",
+    "sentimentShift": "تحول في المعنويات"
+  },
+  "strength": {
+    "strong": "قوي",
+    "moderate": "معتدل",
+    "weak": "ضعيف"
+  }
+}

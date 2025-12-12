@@ -1,0 +1,38 @@
+{
+  "welcome": "Welcome back, {{name}}!",
+  "defaultName": "User",
+  "subtitle": "Your AI-powered trading dashboard for the Saudi Stock Market",
+  "nav": {
+    "admin": "Admin",
+    "signOut": "Sign Out"
+  },
+  "cards": {
+    "searchStocks": {
+      "title": "Search Stocks",
+      "description": "Find and analyze any stock in the Saudi market with AI-powered predictions"
+    },
+    "marketScanner": {
+      "title": "Market Scanner",
+      "description": "Discover unusual volume, sentiment spikes, and high volatility opportunities"
+    },
+    "compareModels": {
+      "title": "Compare AI Models",
+      "description": "Compare predictions from 5 AI models and find the best fit for your strategy"
+    },
+    "predictionEngine": {
+      "title": "Prediction Engine",
+      "description": "Test the AI prediction engine and generate real-time stock forecasts"
+    }
+  },
+  "activity": {
+    "title": "Recent Activity",
+    "empty": "No recent activity yet. Start exploring stocks to see your activity here."
+  },
+  "stats": {
+    "title": "Quick Stats",
+    "accountCreated": "Account Created",
+    "predictionsViewed": "Predictions Viewed",
+    "stocksAnalyzed": "Stocks Analyzed",
+    "today": "Today"
+  }
+}

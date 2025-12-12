@@ -1,0 +1,106 @@
+{
+  "hero": {
+    "badge": "Flexible Pricing",
+    "title": "Choose Your Plan",
+    "subtitle": "Start free, upgrade as you grow. All plans include our core AI prediction engine."
+  },
+  "billing": {
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "savePercent": "Save 20%",
+    "monthPeriod": "/month",
+    "yearPeriod": "/year"
+  },
+  "tiers": {
+    "free": {
+      "name": "Free",
+      "description": "Perfect for getting started with AI predictions",
+      "price": "Free",
+      "period": "Forever",
+      "cta": "Get Started Free",
+      "features": {
+        "predictions": "5 predictions per month",
+        "charts": "Basic price charts",
+        "support": "Community support",
+        "scanner": "AI Market Scanner",
+        "alerts": "Real-time alerts",
+        "analytics": "Advanced analytics",
+        "api": "API access",
+        "prioritySupport": "Priority support"
+      }
+    },
+    "standard": {
+      "name": "Standard",
+      "description": "Ideal for active traders and investors",
+      "cta": "Start Standard Plan",
+      "features": {
+        "predictions": "50 predictions per month",
+        "charts": "Advanced price charts",
+        "scanner": "AI Market Scanner (5 scans/day)",
+        "alerts": "Real-time alerts",
+        "support": "Email support",
+        "analytics": "Advanced analytics",
+        "api": "API access",
+        "prioritySupport": "Priority support"
+      }
+    },
+    "pro": {
+      "name": "Pro",
+      "description": "For professional traders and analysts",
+      "badge": "Most Popular",
+      "cta": "Start Pro Plan",
+      "features": {
+        "predictions": "Unlimited predictions",
+        "charts": "Advanced price charts",
+        "scanner": "AI Market Scanner (unlimited)",
+        "alerts": "Real-time alerts",
+        "analytics": "Advanced analytics dashboard",
+        "comparison": "Model comparison tools",
+        "support": "Priority email support",
+        "api": "API access"
+      }
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "description": "Custom solutions for institutions",
+      "price": "Custom",
+      "period": "Contact us for pricing",
+      "cta": "Contact Sales",
+      "features": {
+        "everything": "Everything in Pro",
+        "api": "Full API access",
+        "training": "Custom model training",
+        "manager": "Dedicated account manager",
+        "whiteLabel": "White-label options",
+        "integrations": "Custom integrations",
+        "phone": "24/7 phone support",
+        "sla": "SLA guarantees"
+      }
+    }
+  },
+  "notSure": {
+    "title": "Not sure which plan is right for you?",
+    "description": "Try our free plan with no credit card required, or contact our sales team for a personalized demo.",
+    "startTrial": "Start Free Trial",
+    "contactSales": "Contact Sales"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "changePlans": {
+      "question": "Can I change plans later?",
+      "answer": "Yes! You can upgrade or downgrade your plan at any time. Changes take effect immediately, and we'll prorate any differences."
+    },
+    "payment": {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept all major credit cards, debit cards, and local payment methods for the Saudi market."
+    },
+    "trial": {
+      "question": "Is there a free trial?",
+      "answer": "Our Free plan is available forever with no credit card required. Try it out and upgrade when you're ready."
+    },
+    "refund": {
+      "question": "What's your refund policy?",
+      "answer": "We offer a 30-day money-back guarantee on all paid plans. If you're not satisfied, contact us for a full refund."
+    }
+  }
+}

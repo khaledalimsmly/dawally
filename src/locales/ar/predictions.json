@@ -1,0 +1,39 @@
+{
+  "card": {
+    "forecast": "توقع",
+    "targetPrice": "السعر المستهدف",
+    "confidenceScore": "درجة الثقة",
+    "riskLevel": "مستوى المخاطر",
+    "timeframes": {
+      "1day": "يوم واحد",
+      "7day": "7 أيام",
+      "30day": "30 يوماً"
+    }
+  },
+  "modelBreakdown": {
+    "title": "تفصيل ثقة النموذج",
+    "subtitle": "مساهمات نماذج الذكاء الاصطناعي الفردية في التوقع",
+    "weightedAverage": "المتوسط المرجح",
+    "explanation": "يتم حساب التوقع النهائي باستخدام نهج شامل يزن ثقة كل نموذج ودقته التاريخية لتوفير التنبؤ الأكثر موثوقية.",
+    "types": {
+      "neuralNetwork": "شبكة عصبية",
+      "ensemble": "مجموعة",
+      "statistical": "إحصائي",
+      "hybrid": "هجين"
+    }
+  },
+  "sentiment": {
+    "bullish": "صعودي",
+    "bearish": "هبوطي",
+    "neutral": "محايد",
+    "strong": "قوي",
+    "moderate": "متوسط",
+    "weak": "ضعيف"
+  },
+  "confidence": {
+    "veryHigh": "عالية جداً",
+    "high": "عالية",
+    "moderate": "متوسطة",
+    "low": "منخفضة"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Compare AI Models",
+  "backToStock": "Back to {{symbol}}",
+  "backTo": "Back to {{symbol}}",
+  "loading": "Loading models...",
+  "loadingModels": "Loading models...",
+  "chartTitle": "Prediction Comparison Chart",
+  "analysisTitle": "Model-by-Model Analysis",
+  "accuracy": "Accuracy",
+  "confidence": "Confidence",
+  "errors": {
+    "notFound": "Stock Not Found",
+    "notFoundDescription": "The stock symbol \"{{symbol}}\" could not be found.",
+    "backToSearch": "Back to Search"
+  },
+  "stockNotFound": "Stock Not Found",
+  "stockNotFoundMessage": "The stock symbol \"{{symbol}}\" could not be found.",
+  "backToSearch": "Back to Search",
+  "chart": {
+    "title": "Prediction Comparison Chart",
+    "today": "Today",
+    "day1": "1 Day",
+    "day7": "7 Days",
+    "day30": "30 Days"
+  },
+  "analysis": {
+    "title": "Model-by-Model Analysis"
+  },
+  "predictions": {
+    "day1": "1-Day Prediction",
+    "day7": "7-Day Prediction",
+    "day30": "30-Day Prediction",
+    "confidence": "Confidence"
+  },
+  "modelTypes": {
+    "ml": "Machine Learning",
+    "statistical": "Statistical",
+    "hybrid": "Hybrid",
+    "deepLearning": "Deep Learning"
+  },
+  "riskLevel": "Risk Level",
+  "trendDirection": "Trend Direction",
+  "bullish": "Bullish",
+  "bearish": "Bearish",
+  "recommendation": {
+    "title": "Investment Recommendation",
+    "description": "Based on {{count}} AI models, the consensus suggests {{sentiment}} sentiment for {{symbol}}. Consider diversifying your analysis with multiple models for optimal decision-making.",
+    "bullishMessage": "Based on {{count}} AI models, the consensus suggests bullish sentiment for {{symbol}}. Consider diversifying your analysis with multiple models for optimal decision-making.",
+    "bearishMessage": "Based on {{count}} AI models, the consensus suggests bearish sentiment for {{symbol}}. Consider diversifying your analysis with multiple models for optimal decision-making."
+  }
+}

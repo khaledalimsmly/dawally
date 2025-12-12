@@ -1,0 +1,39 @@
+{
+  "card": {
+    "forecast": "Forecast",
+    "targetPrice": "Target Price",
+    "confidenceScore": "Confidence Score",
+    "riskLevel": "Risk Level",
+    "timeframes": {
+      "1day": "1-Day",
+      "7day": "7-Day",
+      "30day": "30-Day"
+    }
+  },
+  "modelBreakdown": {
+    "title": "Model Confidence Breakdown",
+    "subtitle": "Individual AI model contributions to prediction",
+    "weightedAverage": "Weighted Average",
+    "explanation": "The final prediction is calculated using an ensemble approach that weighs each model's confidence and historical accuracy to provide the most reliable forecast.",
+    "types": {
+      "neuralNetwork": "Neural Network",
+      "ensemble": "Ensemble",
+      "statistical": "Statistical",
+      "hybrid": "Hybrid"
+    }
+  },
+  "sentiment": {
+    "bullish": "Bullish",
+    "bearish": "Bearish",
+    "neutral": "Neutral",
+    "strong": "Strong",
+    "moderate": "Moderate",
+    "weak": "Weak"
+  },
+  "confidence": {
+    "veryHigh": "Very High",
+    "high": "High",
+    "moderate": "Moderate",
+    "low": "Low"
+  }
+}

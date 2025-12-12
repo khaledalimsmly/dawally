@@ -1,0 +1,98 @@
+{
+  "backToSearch": "العودة للبحث",
+  "errors": {
+    "notFound": "السهم غير موجود",
+    "notFoundDescription": "رمز السهم \"{{symbol}}\" غير موجود.",
+    "backToSearch": "العودة للبحث"
+  },
+  "notFound": {
+    "title": "السهم غير موجود",
+    "message": "رمز السهم \"{{symbol}}\" غير موجود.",
+    "button": "العودة للبحث"
+  },
+  "aiModel": "نموذج الذكاء الاصطناعي:",
+  "accuracy": "الدقة",
+  "compareFor": "مقارنة لـ {{symbol}}",
+  "viewAllModels": "عرض جميع النماذج",
+  "currentPrice": "السعر الحالي",
+  "metrics": {
+    "volume": "الحجم",
+    "marketCap": "القيمة السوقية",
+    "riskLevel": "مستوى المخاطر",
+    "aiConfidence": "ثقة الذكاء الاصطناعي"
+  },
+  "stats": {
+    "volume": "الحجم",
+    "marketCap": "القيمة السوقية",
+    "riskLevel": "مستوى المخاطر",
+    "aiConfidence": "ثقة الذكاء الاصطناعي"
+  },
+  "riskLevels": {
+    "high": "عالي",
+    "medium": "متوسط",
+    "low": "منخفض"
+  },
+  "sentiments": {
+    "bullish": "صعودي",
+    "bearish": "هبوطي",
+    "neutral": "محايد"
+  },
+  "chart": {
+    "title": "رسم بياني للتوقعات",
+    "subtitle": "مع نطاقات الثقة",
+    "predictedPrice": "السعر المتوقع",
+    "confidenceRange": "نطاق الثقة",
+    "today": "اليوم",
+    "day1": "يوم واحد",
+    "day7": "7 أيام",
+    "day30": "30 يوم"
+  },
+  "chartTitle": "رسم بياني للتوقعات",
+  "chartSubtitle": "مع نطاقات الثقة",
+  "legend": {
+    "predictedPrice": "السعر المتوقع",
+    "confidenceRange": "نطاق الثقة"
+  },
+  "overallConfidenceTitle": "الثقة الإجمالية",
+  "confidenceDescription": "بناءً على الأنماط التاريخية وظروف السوق والمؤشرات الفنية",
+  "overallConfidence": {
+    "title": "الثقة الإجمالية",
+    "subtitle": "بناءً على الأنماط التاريخية وظروف السوق والمؤشرات الفنية"
+  },
+  "predictionsTitle": "توقعات أسعار الذكاء الاصطناعي",
+  "predictions": {
+    "title": "توقعات أسعار الذكاء الاصطناعي"
+  },
+  "insights": {
+    "title": "رؤى الذكاء الاصطناعي الرئيسية",
+    "positive": "يُظهر السهم زخماً إيجابياً مع حركة صعودية تشير إلى اهتمام قوي من المشترين.",
+    "negative": "يواجه السهم ضغطاً هبوطياً في ظروف السوق الحالية مع زيادة نشاط البيع.",
+    "prediction": "تتوقع نماذج الذكاء الاصطناعي اتجاهاً {{trend}} للأيام الـ 30 القادمة بثقة {{confidence}}٪ بناءً على الأنماط التاريخية والمؤشرات الفنية.",
+    "trend": "تتوقع نماذج الذكاء الاصطناعي اتجاهاً {{direction}} للأيام الـ 30 القادمة بثقة {{confidence}}٪ بناءً على الأنماط التاريخية والمؤشرات الفنية.",
+    "volume": "حجم التداول {{level}} المتوسط عند {{volume}}، مما يشير إلى اهتمام سوقي {{interest}}.",
+    "volumeLevels": {
+      "above": "أعلى من",
+      "below": "أقل من",
+      "strong": "قوي",
+      "moderate": "معتدل"
+    }
+  },
+  "risk": {
+    "title": "مقاييس المخاطر",
+    "priceVolatility": "تقلب السعر",
+    "predictionAccuracy": "دقة التوقع",
+    "marketSentiment": "معنويات السوق"
+  },
+  "riskMetrics": {
+    "title": "مقاييس المخاطر",
+    "priceVolatility": "تقلب السعر",
+    "predictionAccuracy": "دقة التوقع",
+    "marketSentiment": "معنويات السوق"
+  },
+  "cta": {
+    "title": "هل تريد المزيد من رؤى الذكاء الاصطناعي؟",
+    "description": "احصل على توقعات مخصصة وتنبيهات في الوقت الفعلي",
+    "subtitle": "احصل على توقعات مخصصة وتنبيهات في الوقت الفعلي",
+    "button": "إنشاء حساب مجاني ←"
+  }
+}

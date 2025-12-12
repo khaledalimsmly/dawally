@@ -1,0 +1,66 @@
+{
+  "title": "AI Prediction Engine Demo",
+  "subtitle": "Test the prediction engine with real-time stock analysis",
+  "backToDashboard": "Back to Dashboard",
+  "demoMode": {
+    "enable": "Enable Demo Mode",
+    "active": "Demo Mode Active",
+    "banner": {
+      "title": "Investor Demo Mode Active",
+      "description": "Showing optimized predictions with higher confidence scores and perfect charts"
+    }
+  },
+  "status": {
+    "title": "Engine Status",
+    "name": "Model Name",
+    "version": "Version",
+    "type": "Type",
+    "status": "Status"
+  },
+  "features": {
+    "title": "Features",
+    "multiTimeframe": "Multi-timeframe predictions",
+    "confidenceScoring": "Confidence scoring",
+    "riskAssessment": "Risk assessment",
+    "sentimentAnalysis": "Sentiment analysis"
+  },
+  "ready": {
+    "title": "Ready to Test",
+    "description": "Select a stock symbol and generate a prediction to see the AI engine in action."
+  },
+  "generate": {
+    "title": "Generate Prediction",
+    "selectStock": "Select Stock",
+    "chooseStock": "Choose a stock",
+    "generating": "Generating Prediction...",
+    "button": "Generate Prediction"
+  },
+  "results": {
+    "title": "Prediction Results",
+    "currentPrice": "Current Price",
+    "overallConfidence": "Overall Confidence",
+    "riskLevel": "Risk Level",
+    "sentiment": "Sentiment",
+    "score": "Score",
+    "marketCondition": "Market Condition",
+    "timeframes": {
+      "oneDay": "1-Day Prediction",
+      "sevenDay": "7-Day Prediction",
+      "thirtyDay": "30-Day Prediction"
+    }
+  },
+  "chart": {
+    "title": "Price Forecast",
+    "description": "Predicted price movement over the next 30 days"
+  },
+  "keyFactors": {
+    "title": "Key Prediction Factors"
+  },
+  "timeframe": {
+    "predictedPrice": "Predicted Price",
+    "change": "Expected Change",
+    "direction": "Direction",
+    "confidence": "Confidence"
+  },
+  "noStock": "Please select a stock to generate predictions"
+}

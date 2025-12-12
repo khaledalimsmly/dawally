@@ -1,0 +1,64 @@
+{
+  "title": "Our AI Models",
+  "subtitle": "Advanced machine learning algorithms powering stock predictions",
+  "hero": {
+    "title": "Our AI Models",
+    "subtitle": "Advanced machine learning algorithms powering stock predictions"
+  },
+  "bestModel": {
+    "title": "Best Model Today",
+    "badge": "Top Performer",
+    "description": "Highest accuracy across all timeframes and market conditions",
+    "modelName": "Model Name",
+    "accuracyRate": "Accuracy Rate",
+    "confidenceRange": "Confidence Range",
+    "riskLevel": "Risk Level",
+    "keyStrength": "Key Strength",
+    "useButton": "Use This Model"
+  },
+  "allModels": {
+    "title": "All Available Models"
+  },
+  "card": {
+    "accuracy": "Accuracy",
+    "confidence": "Confidence",
+    "risk": "Risk",
+    "accuracyTrend": "Accuracy Trend",
+    "strengths": "Strengths",
+    "useCases": "Use Cases",
+    "notes": "Notes",
+    "showLess": "Show Less",
+    "learnMore": "Learn More"
+  },
+  "comparison": {
+    "performanceTitle": "Performance Comparison",
+    "detailedTitle": "Detailed Comparison"
+  },
+  "chart": {
+    "metrics": {
+      "accuracy": "Accuracy",
+      "speed": "Speed",
+      "confidence": "Confidence",
+      "riskAdjReturn": "Risk-Adjusted Return"
+    }
+  },
+  "cta": {
+    "title": "Ready to Start?",
+    "description": "Get access to all our AI models and start making better investment decisions today.",
+    "button": "Get Started"
+  },
+  "features": {
+    "title": "Model Features",
+    "accuracy": "Accuracy",
+    "speed": "Speed",
+    "confidence": "Confidence",
+    "riskAdjustedReturn": "Risk-Adj Return"
+  },
+  "details": {
+    "description": "Description",
+    "strengths": "Strengths",
+    "weaknesses": "Weaknesses",
+    "bestFor": "Best For",
+    "accuracy": "Accuracy Rate"
+  }
+}

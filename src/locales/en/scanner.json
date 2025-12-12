@@ -1,0 +1,59 @@
+{
+  "title": "Market Scanner",
+  "subtitle": "Real-time detection of unusual market activity and trading opportunities",
+  "scanning": "Scanning...",
+  "rescanMarket": "Rescan Market",
+  "scanningMessage": "Scanning market for signals...",
+  "tabs": {
+    "volume": "Unusual Volume",
+    "volatility": "High Volatility",
+    "sentiment": "Sentiment Spikes"
+  },
+  "filters": {
+    "label": "Filters:",
+    "sector": "Sector",
+    "allSectors": "All Sectors",
+    "riskLevel": "Risk Level",
+    "allRiskLevels": "All Risk Levels",
+    "high": "High",
+    "medium": "Medium",
+    "low": "Low",
+    "results": "Results:",
+    "reset": "Reset Filters"
+  },
+  "summary": {
+    "title": "Scanner Summary",
+    "totalFlagged": "Total Stocks Flagged",
+    "volumeAlerts": "Volume Alerts",
+    "volatilityAlerts": "Volatility Alerts",
+    "sentimentAlerts": "Sentiment Alerts",
+    "marketHeat": "Market Heat",
+    "lastUpdated": "Last Updated",
+    "rescan": "Rescan Market"
+  },
+  "table": {
+    "symbol": "Symbol",
+    "stockName": "Stock Name",
+    "price": "Price",
+    "volumeChange": "Volume Change",
+    "volumeRatio": "Volume Ratio",
+    "sentiment": "Sentiment",
+    "priceChange": "Price Change",
+    "volatilityScore": "Volatility Score",
+    "direction": "Direction",
+    "sentimentChange": "Sentiment Change",
+    "action": "Action",
+    "view": "View",
+    "noSignals": "No signals detected in this category"
+  },
+  "signalTypes": {
+    "volumeSpike": "Volume Spike",
+    "highVolatility": "High Volatility",
+    "sentimentShift": "Sentiment Shift"
+  },
+  "strength": {
+    "strong": "Strong",
+    "moderate": "Moderate",
+    "weak": "Weak"
+  }
+}

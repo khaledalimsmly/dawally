@@ -1,0 +1,36 @@
+{
+  "menu": {
+    "home": "Home",
+    "predictions": "Predictions",
+    "scanner": "Market Scanner",
+    "compareModels": "Compare Models",
+    "documentation": "Documentation",
+    "pricing": "Pricing",
+    "login": "Login",
+    "signup": "Get Started",
+    "dashboard": "Dashboard",
+    "signout": "Sign Out"
+  },
+  "footer": {
+    "tagline": "AI-Powered Stock Predictions for the Saudi Market",
+    "product": "Product",
+    "predictions": "Predictions",
+    "scanner": "Market Scanner",
+    "compareModels": "Compare Models",
+    "pricing": "Pricing",
+    "apiAccess": "API Access (Coming Soon)",
+    "company": "Company",
+    "about": "About Us",
+    "contact": "Contact",
+    "careers": "Careers (Coming Soon)",
+    "blog": "Blog (Coming Soon)",
+    "legal": "Legal",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookie Policy",
+    "disclaimer": "Disclaimer",
+    "investmentDisclaimer": "Investment Disclaimer: DAWALLY provides AI-powered predictions for informational purposes only. Past performance and predictions do not guarantee future results. All investments carry risk, including the potential loss of principal. Users should conduct their own research and consult with licensed financial advisors before making investment decisions. DAWALLY is not a registered investment advisor and does not provide financial advice.",
+    "copyright": "© 2025 DAWALLY. All rights reserved.",
+    "backToTop": "Back to top"
+  }
+}

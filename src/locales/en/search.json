@@ -1,0 +1,20 @@
+{
+  "title": "Search Saudi Stocks",
+  "subtitle": "Find stocks by symbol, name, or sector",
+  "placeholder": "Search by symbol (e.g., 2222) or name (e.g., Aramco)...",
+  "resultsTitle": "Search Results ({{count}})",
+  "topStocksTitle": "Top Saudi Stocks",
+  "clearSearch": "Clear Search",
+  "table": {
+    "symbol": "Symbol",
+    "name": "Name",
+    "sector": "Sector",
+    "price": "Price",
+    "change": "Change",
+    "volume": "Volume",
+    "marketCap": "Market Cap",
+    "action": "Action"
+  },
+  "noResults": "No stocks found matching \"{{query}}\"",
+  "clearAndViewAll": "Clear search and view all stocks"
+}

@@ -1,0 +1,66 @@
+{
+  "title": "تجربة محرك التوقعات بالذكاء الاصطناعي",
+  "subtitle": "اختبر محرك التوقعات مع تحليل الأسهم في الوقت الفعلي",
+  "backToDashboard": "العودة للوحة التحكم",
+  "demoMode": {
+    "enable": "تفعيل وضع التجريب",
+    "active": "وضع التجريب نشط",
+    "banner": {
+      "title": "وضع تجريب المستثمر نشط",
+      "description": "عرض توقعات محسّنة مع درجات ثقة أعلى ورسوم بيانية مثالية"
+    }
+  },
+  "status": {
+    "title": "حالة المحرك",
+    "name": "اسم النموذج",
+    "version": "الإصدار",
+    "type": "النوع",
+    "status": "الحالة"
+  },
+  "features": {
+    "title": "الميزات",
+    "multiTimeframe": "توقعات متعددة الأطر الزمنية",
+    "confidenceScoring": "تسجيل الثقة",
+    "riskAssessment": "تقييم المخاطر",
+    "sentimentAnalysis": "تحليل المعنويات"
+  },
+  "ready": {
+    "title": "جاهز للاختبار",
+    "description": "حدد رمز سهم وأنشئ توقعاً لرؤية محرك الذكاء الاصطناعي أثناء العمل."
+  },
+  "generate": {
+    "title": "إنشاء توقع",
+    "selectStock": "اختر سهماً",
+    "chooseStock": "اختر سهماً",
+    "generating": "جاري إنشاء التوقع...",
+    "button": "إنشاء توقع"
+  },
+  "results": {
+    "title": "نتائج التوقع",
+    "currentPrice": "السعر الحالي",
+    "overallConfidence": "الثقة الإجمالية",
+    "riskLevel": "مستوى المخاطر",
+    "sentiment": "المعنويات",
+    "score": "النتيجة",
+    "marketCondition": "حالة السوق",
+    "timeframes": {
+      "oneDay": "توقع يوم واحد",
+      "sevenDay": "توقع 7 أيام",
+      "thirtyDay": "توقع 30 يوم"
+    }
+  },
+  "chart": {
+    "title": "التوقع السعري",
+    "description": "حركة السعر المتوقعة خلال الـ 30 يوماً القادمة"
+  },
+  "keyFactors": {
+    "title": "عوامل التوقع الرئيسية"
+  },
+  "timeframe": {
+    "predictedPrice": "السعر المتوقع",
+    "change": "التغيير المتوقع",
+    "direction": "الاتجاه",
+    "confidence": "الثقة"
+  },
+  "noStock": "الرجاء اختيار سهم لإنشاء التوقعات"
+}

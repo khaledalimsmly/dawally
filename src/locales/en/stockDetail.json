@@ -1,0 +1,98 @@
+{
+  "backToSearch": "Back to Search",
+  "errors": {
+    "notFound": "Stock Not Found",
+    "notFoundDescription": "The stock symbol \"{{symbol}}\" could not be found.",
+    "backToSearch": "Back to Search"
+  },
+  "notFound": {
+    "title": "Stock Not Found",
+    "message": "The stock symbol \"{{symbol}}\" could not be found.",
+    "button": "Back to Search"
+  },
+  "aiModel": "AI Model:",
+  "accuracy": "Accuracy",
+  "compareFor": "Compare for {{symbol}}",
+  "viewAllModels": "View All Models",
+  "currentPrice": "Current Price",
+  "metrics": {
+    "volume": "Volume",
+    "marketCap": "Market Cap",
+    "riskLevel": "Risk Level",
+    "aiConfidence": "AI Confidence"
+  },
+  "stats": {
+    "volume": "Volume",
+    "marketCap": "Market Cap",
+    "riskLevel": "Risk Level",
+    "aiConfidence": "AI Confidence"
+  },
+  "riskLevels": {
+    "high": "High",
+    "medium": "Medium",
+    "low": "Low"
+  },
+  "sentiments": {
+    "bullish": "Bullish",
+    "bearish": "Bearish",
+    "neutral": "Neutral"
+  },
+  "chart": {
+    "title": "Price Prediction Chart",
+    "subtitle": "With confidence bands",
+    "predictedPrice": "Predicted Price",
+    "confidenceRange": "Confidence Range",
+    "today": "Today",
+    "day1": "1 Day",
+    "day7": "7 Days",
+    "day30": "30 Days"
+  },
+  "chartTitle": "Price Prediction Chart",
+  "chartSubtitle": "With confidence bands",
+  "legend": {
+    "predictedPrice": "Predicted Price",
+    "confidenceRange": "Confidence Range"
+  },
+  "overallConfidenceTitle": "Overall Confidence",
+  "confidenceDescription": "Based on historical patterns, market conditions, and technical indicators",
+  "overallConfidence": {
+    "title": "Overall Confidence",
+    "subtitle": "Based on historical patterns, market conditions, and technical indicators"
+  },
+  "predictionsTitle": "AI Price Predictions",
+  "predictions": {
+    "title": "AI Price Predictions"
+  },
+  "insights": {
+    "title": "AI Key Insights",
+    "positive": "Stock is showing positive momentum with upward price movement indicating strong buyer interest.",
+    "negative": "Stock is experiencing downward pressure in current market conditions with increased selling activity.",
+    "prediction": "AI models predict a {{trend}} trend for the next 30 days with {{confidence}}% confidence based on historical patterns and technical indicators.",
+    "trend": "AI models predict a {{direction}} trend for the next 30 days with {{confidence}}% confidence based on historical patterns and technical indicators.",
+    "volume": "Trading volume is {{level}} average at {{volume}}, indicating {{interest}} market interest.",
+    "volumeLevels": {
+      "above": "above",
+      "below": "below",
+      "strong": "strong",
+      "moderate": "moderate"
+    }
+  },
+  "risk": {
+    "title": "Risk Metrics",
+    "priceVolatility": "Price Volatility",
+    "predictionAccuracy": "Prediction Accuracy",
+    "marketSentiment": "Market Sentiment"
+  },
+  "riskMetrics": {
+    "title": "Risk Metrics",
+    "priceVolatility": "Price Volatility",
+    "predictionAccuracy": "Prediction Accuracy",
+    "marketSentiment": "Market Sentiment"
+  },
+  "cta": {
+    "title": "Want more AI-powered insights?",
+    "description": "Get personalized predictions and real-time alerts",
+    "subtitle": "Get personalized predictions and real-time alerts",
+    "button": "Create Free Account →"
+  }
+}
