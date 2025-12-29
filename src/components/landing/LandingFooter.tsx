@@ -66,6 +66,11 @@ export const LandingFooter = () => {
                 </Link>
               </li>
               <li>
+                <Link to="/investors" className="text-gray-400 hover:text-teal-400 transition-colors">
+                  {t('footer.investors')}
+                </Link>
+              </li>
+              <li>
                 <Link to="/landing" className="text-gray-400 hover:text-teal-400 transition-colors">
                   {t('footer.contact')}
                 </Link>
