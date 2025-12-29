@@ -21,6 +21,7 @@ import { ModelsOverview } from './pages/ModelsOverview';
 import { MarketScanner } from './pages/MarketScanner';
 import { Pricing } from './pages/Pricing';
 import { Docs } from './pages/Docs';
+import { Investors } from './pages/Investors';
 
 function App() {
   return (
@@ -60,6 +61,7 @@ function App() {
               <Route path="/compare-models" element={<ModelsOverview />} />
               <Route path="/stock/:symbol" element={<StockDetail />} />
               <Route path="/stock/:symbol/compare" element={<CompareModels />} />
+              <Route path="/investors" element={<Investors />} />
                 <Route path="*" element={<Navigate to="/" replace />} />
               </Routes>
               </div>
